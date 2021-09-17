@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.57c1b107.chunk.css",
-    "main.js": "/static/js/main.97eecdbd.chunk.js",
-    "main.js.map": "/static/js/main.97eecdbd.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.74db816a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.74db816a.js.map",
-    "static/js/2.63780828.chunk.js": "/static/js/2.63780828.chunk.js",
-    "static/js/2.63780828.chunk.js.map": "/static/js/2.63780828.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.57c1b107.chunk.css.map": "/static/css/main.57c1b107.chunk.css.map",
-    "static/js/2.63780828.chunk.js.LICENSE.txt": "/static/js/2.63780828.chunk.js.LICENSE.txt"
+    "main.css": "/Gist-App/static/css/main.57c1b107.chunk.css",
+    "main.js": "/Gist-App/static/js/main.97eecdbd.chunk.js",
+    "main.js.map": "/Gist-App/static/js/main.97eecdbd.chunk.js.map",
+    "runtime-main.js": "/Gist-App/static/js/runtime-main.726d2274.js",
+    "runtime-main.js.map": "/Gist-App/static/js/runtime-main.726d2274.js.map",
+    "static/js/2.63780828.chunk.js": "/Gist-App/static/js/2.63780828.chunk.js",
+    "static/js/2.63780828.chunk.js.map": "/Gist-App/static/js/2.63780828.chunk.js.map",
+    "index.html": "/Gist-App/index.html",
+    "static/css/main.57c1b107.chunk.css.map": "/Gist-App/static/css/main.57c1b107.chunk.css.map",
+    "static/js/2.63780828.chunk.js.LICENSE.txt": "/Gist-App/static/js/2.63780828.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.74db816a.js",
+    "static/js/runtime-main.726d2274.js",
     "static/js/2.63780828.chunk.js",
     "static/css/main.57c1b107.chunk.css",
     "static/js/main.97eecdbd.chunk.js"
